@@ -1,4 +1,7 @@
-﻿namespace BitRotStopper;
+﻿using System.Drawing;
+using System.Windows.Forms;
+
+namespace BitRotStopper;
 
 partial class MainForm
 {
