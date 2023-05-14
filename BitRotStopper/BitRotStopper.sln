@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitRotStopper", "BitRotStopper\BitRotStopper.csproj", "{E35B36AC-2AEA-4390-9E87-19B65287025E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{87DCEAAC-6620-45C6-8CC3-6AFD2CF031A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E35B36AC-2AEA-4390-9E87-19B65287025E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E35B36AC-2AEA-4390-9E87-19B65287025E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E35B36AC-2AEA-4390-9E87-19B65287025E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87DCEAAC-6620-45C6-8CC3-6AFD2CF031A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87DCEAAC-6620-45C6-8CC3-6AFD2CF031A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87DCEAAC-6620-45C6-8CC3-6AFD2CF031A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87DCEAAC-6620-45C6-8CC3-6AFD2CF031A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
